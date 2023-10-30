@@ -16,7 +16,7 @@ LC Labs has been exploring machine learning and artificial intelligence through 
 To account for these challenges and realities, LC Labs developed mechanisms to build the foundation for a responsible implementation of AI tools in LAM. The process at a very high level is to 1) Understand 2) Experiment and 3) Implement.  While stepping through this process based on previous experience and existing governance, Labs also created a set of worksheets, questionnaires, and workshops to engage stakeholders and staff. The mechanisms, tools, collaborations, and artifacts together form the AI Planning Framework. Labs have yet to move an AI use case through to the implementation phase of the process. But again, the capacities outlined in the final phases are based on experiences in digital transformation, existing requirements for planning, and guidance from sectors that have more mature AI evaluation programs.  
 
 ## Understand 
-Collaboratively articulate principles | assess risks and benefits, map needs, priorities and expertise | learn about data readiness. 
+Collaboratively articulate principles; assess risks and benefits, map needs, priorities and expertise; learn about data readiness. 
 
 Tools for use in this phase: 
 | Title      | Description | Last Revised | Download | 
