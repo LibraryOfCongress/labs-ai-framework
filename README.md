@@ -37,5 +37,5 @@ Tools for use in this phase:
 
 
 ## Implement 
-AI or ML services are operational and supported by strategy, policies, integrations, shared quality standards and a skilled workforce. 
+AI or ML services are operational and supported by strategy, policies, integrations, shared quality standards and a skilled workforce.
 
