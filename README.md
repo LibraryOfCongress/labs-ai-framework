@@ -21,10 +21,9 @@ Collaboratively articulate principles; assess risks and benefits, map needs, pri
 Tools for use in this phase: 
 | Title      | Description | Last Revised | Download | 
 | ----------- | ----------- |  ----------- |  ----------- |  
-| Use Case Risk Worksheet     | This questionnaire is meant to assist staff in assessing the risk profile of an AI use case. The risk level will inform planning for the level of the risk mitigation efforts, estimated timeline for safety, quality and performance verification, and resources required.       | 2023-10-30 | Coming soon | 
-| Phase II Risk Analysis  | Fill out this worksheet to articulate success criteria, measures, risks, and benefits for an AI Use Case. | 2023-10-30 | Coming soon | 
-| Data Readiness Assessment     | Questionnaire to assess readiness and availability of data for the proposed use case.       | 2023-10-30 | Coming soon |
-| Domain Profile Workshop   | Workshop materials for articulating AI use cases in specific domains.   | 2023-10-30 | Coming soon |
+| Use Case Risk Worksheet     | This questionnaire is meant to assist staff in assessing the risk profile of an AI use case. The risk level will inform planning for the level of the risk mitigation efforts, estimated timeline for safety, quality and performance verification, and resources required.       | 2023-10-30 | Link to [worksheet](https://git.loc.gov/labs/labs-ai-framework/-/blob/main/Understand/Use_Case_Assessment_Worksheet_2023-10-30-draft.docx). | 
+| Phase II Risk Analysis  | Fill out this worksheet to articulate success criteria, measures, risks, and benefits for an AI Use Case. | 2023-10-30 | Link to [worksheet](https://git.loc.gov/labs/labs-ai-framework/-/blob/main/Understand/PhaseII_Risk_Assessement_-_2023-10-30-draft.docx) | 
+| Data Readiness Assessment     | Questionnaire to assess readiness and availability of data for the proposed use case.       | 2023-10-30 | Link to [questionnaire](https://git.loc.gov/labs/labs-ai-framework/-/blob/main/Understand/Data_Assessment_Worksheet_2023-10-30-draft.docx). |
 
 
 ## Experiment 
@@ -33,8 +32,8 @@ Test specific use cases, models and data with staff and users to document perfor
 Tools for use in this phase: 
 | Title      | Description | Last Revised | Download | 
 | ----------- | ----------- |  ----------- |  ----------- |  
-| Data Processing Plan   | This template is provided to help partners and vendors understand the documentation and planning requirements for processing Library of Congress data in the context of experimentation and research.       | 2021-12-01 | Attachment J2 on the Library of Congress [Digital Innovation IDIQ solicitation](https://sam.gov/opp/1e6e3f521dd443809e6d0107b5101580/view) | 
-| Acquisition tool and process  | The Library of Congress [Digital Innovation IDIQ](https://sam.gov/opp/1e6e3f521dd443809e6d0107b5101580/view#general) is an acquisition tool for planning, analyzing, and transitioning experiments; experimental data extraction, generation, and transformation; and user-centered demonstration prototyping.       | 2022-07-28 | Library of Congress [Digital Innovation IDIQ solicitation](https://sam.gov/opp/1e6e3f521dd443809e6d0107b5101580/view) | 
+| Data Processing Plan   | This template is provided to help partners and vendors understand the documentation and planning requirements for processing Library of Congress data in the context of experimentation and research.       | 2021-12-01 | Attachment J2 on the Library of Congress [Digital Innovation IDIQ solicitation](https://git.loc.gov/labs/labs-ai-framework/-/blob/main/Experiment/Data-Processing-Plan-template-2021-12-01-draft.docx) | 
+| Acquisition tool and process  | The Library of Congress [Digital Innovation IDIQ](https://sam.gov/opp/1e6e3f521dd443809e6d0107b5101580/view#general) is an acquisition tool for planning, analyzing, and transitioning experiments; experimental data extraction, generation, and transformation; and user-centered demonstration prototyping.       | 2022-07-28 | Library of Congress [Digital Innovation IDIQ solicitation](https://git.loc.gov/labs/labs-ai-framework/-/blob/3c0ca1845494a540766fcc3e01aa8dd917e61ede/Experiment/DigitalInnovationIDIQsigned.pdf) | 
 
 
 ## Implement 
