@@ -3,7 +3,9 @@
 
 
 ## About 
-At a high level, the framework includes three planning phases:  1) Understand 2) Experiment and 3) Implement, which supports the evaluation of three elements of ML: 1) Data; 2) Models; and 3) People. We rely on a set of worksheets, questionnaires, and workshops to engage stakeholders and staff and identify priorities for future exploration. The mechanisms, tools, collaborations, and artifacts together form the AI Planning Framework. Our hope in sharing the framework and associated tools in this initial version is to encourage others to try it out and to solicit additional feedback.  
+LC Labs has been exploring how to use emerging technologies to expand the use of digital materials since our launch in 2016. We quickly saw machine learning (ML), one branch of artificial intelligence (AI), as a potential way to provide more metadata and connections between collection items and users.  Experiments and research have shown the risks and benefits of using AI in libraries, archives and museums (LAMs).
+
+To account for these challenges and realities, LC Labs has been developing a planning framework to support the responsible exploration and potential adoption of AI at the Library.  At a high level, the framework includes three planning phases:  1) Understand 2) Experiment and 3) Implement, which supports the evaluation of three elements of ML: 1) Data; 2) Models; and 3) People. We rely on a set of worksheets, questionnaires, and workshops to engage stakeholders and staff and identify priorities for future exploration. The mechanisms, tools, collaborations, and artifacts together form the AI Planning Framework. Our hope in sharing the framework and associated tools in this initial version is to encourage others to try it out and to solicit additional feedback.  
 
 In planning for and conducting AI and ML experiments at the Library of Congress, we've simplified ML processes into three main elements:  Data, Models, and People. The details of all three elements and how they are put together helps us understand whether an application of this technology is useful, ethical and effective.  
 
