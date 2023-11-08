@@ -45,3 +45,4 @@ This phase will include tools to assist with:
 - Monitoring and Measuring
 - Shared Quality Standards
 
+![Slide titled elements of machine learning containing three icons. A round cylinder icon under Data, under which the following words appear: library content, data readiness, training data, tuning data, validation data, target data, and output data. Top righ a square with four quadrants under which the following words appear: end to end workflow or pipeline, architectures, type of training, libraries utilized, frameworks or platforms. Bottom center a group of four people with arms raised next to which the following words appear: develop use cases, represented in the data, design and sell AI systems, impacted by AI systems, evaluate and implement AI systems.](/images/AI-framework-3.jpg)
