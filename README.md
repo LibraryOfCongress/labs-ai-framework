@@ -3,7 +3,7 @@
 
 
 ## About 
-LC Labs has been exploring how to use emerging technologies to expand the use of digital materials since our launch in 2016. We quickly saw machine learning (ML), one branch of artificial intelligence (AI), as a potential way to provide more metadata and connections between collection items and users.  Experiments and research have shown the risks and benefits of using AI in libraries, archives and museums (LAMs).
+LC Labs has been exploring how to use emerging technologies to expand the use of digital materials since our launch in 2016. We quickly saw machine learning (ML), one branch of artificial intelligence (AI), as a potential way to [provide more metadata](https://labs.loc.gov/work/experiments/experimental-access/) and [connections](https://citizen-dj.labs.loc.gov/) between collection items and users.  [Experiments and research](https://blogs.loc.gov/thesignal/2023/11/why-experiment-machine-learning-at-the-library-of-congress/) have shown the risks and benefits of using AI in libraries, archives and museums (LAMs).
 
 To account for these challenges and realities, LC Labs has been developing a planning framework to support the responsible exploration and potential adoption of AI at the Library.  Read the full overview of the Labs framework in our [related post on the Signal Blog](https://blogs.loc.gov/thesignal/2023/11/introducing-the-lc-labs-artificial-intelligence-planning-framework).
 
@@ -23,19 +23,26 @@ Collaboratively articulate principles; assess risks and benefits, map needs, pri
 Tools for use in this phase: 
 | Title      | Description | Last Revised | Download | 
 | ----------- | ----------- |  ----------- |  ----------- |  
-| Use Case Risk Worksheet     | This questionnaire is meant to assist staff in assessing the risk profile of an AI use case. The risk level will inform planning for the level of the risk mitigation efforts, estimated timeline for safety, quality and performance verification, and resources required.       | 2023-10-30 | Link to [worksheet](https://git.loc.gov/labs/labs-ai-framework/-/blob/main/Understand/Use_Case_Assessment_Worksheet_2023-10-30-draft.docx). | 
-| Phase II Risk Analysis  | Fill out this worksheet to articulate success criteria, measures, risks, and benefits for an AI Use Case. | 2023-10-30 | Link to [worksheet](https://git.loc.gov/labs/labs-ai-framework/-/blob/main/Understand/PhaseII_Risk_Assessement_-_2023-10-30-draft.docx) | 
-| Data Readiness Assessment     | Questionnaire to assess readiness and availability of data for the proposed use case.       | 2023-10-30 | Link to [questionnaire](https://git.loc.gov/labs/labs-ai-framework/-/blob/main/Understand/Data_Assessment_Worksheet_2023-10-30-draft.docx). |
+| Use Case Risk Worksheet     | This questionnaire is meant to assist staff in assessing the risk profile of an AI use case. The risk level will inform planning for the level of the risk mitigation efforts, estimated timeline for safety, quality and performance verification, and resources required.       | 2023-10-30 | Link to [worksheet](https://github.com/LibraryOfCongress/labs-ai-framework/blob/main/Understand/Use_Case_Assessment_Worksheet_2023-11-13-draft.docx). | 
+| Phase II Risk Analysis  | Fill out this worksheet to articulate success criteria, measures, risks, and benefits for an AI Use Case. | 2023-10-30 | Link to [worksheet](https://github.com/LibraryOfCongress/labs-ai-framework/blob/main/Understand/PhaseII_Risk_Assessement_-_2023-10-30-draft.docx) | 
+| Data Readiness Assessment     | Questionnaire to assess readiness and availability of data for the proposed use case.       | 2023-10-30 | Link to [questionnaire](https://github.com/LibraryOfCongress/labs-ai-framework/blob/main/Understand/Data_Assessment_Worksheet_2023-11-14.docx). |
 
 
 ## Experiment 
+We use the following tools and mechanisms for experiments:
+
+The Digital Innovation Indefinite Delivery Indefinite Quantity (IDIQ) contract 
+The Data Processing Plan documents data transformations and the predicted and actual AI model performance for specific tasks. It combines elements from a model card, data cover sheet and documents curatorial provenance. Vendors are required to fill it out as part of the Digital Innovation IDIQ.
+In Development: NLP vendor evaluation guide and quality review recommendations.
+Under Recommendation: Balanced datasets for benchmarking newly available AI models and tools.
+
 Test specific use cases, models and data with staff and users to document performance and build quality baselines and benchmarks
 
 Tools for use in this phase: 
 | Title      | Description | Last Revised | Download | 
 | ----------- | ----------- |  ----------- |  ----------- |  
-| Data Processing Plan   | This template is provided to help partners and vendors understand the documentation and planning requirements for processing Library of Congress data in the context of experimentation and research.       | 2021-12-01 | Attachment J2 on the Library of Congress [Digital Innovation IDIQ solicitation](https://git.loc.gov/labs/labs-ai-framework/-/blob/main/Experiment/Data-Processing-Plan-template-2021-12-01-draft.docx) | 
-| Acquisition tool and process  | The Library of Congress [Digital Innovation IDIQ](https://sam.gov/opp/1e6e3f521dd443809e6d0107b5101580/view#general) is an acquisition tool for planning, analyzing, and transitioning experiments; experimental data extraction, generation, and transformation; and user-centered demonstration prototyping.       | 2022-07-28 | Library of Congress [Digital Innovation IDIQ solicitation](https://git.loc.gov/labs/labs-ai-framework/-/blob/3c0ca1845494a540766fcc3e01aa8dd917e61ede/Experiment/DigitalInnovationIDIQsigned.pdf) | 
+| Data Processing Plan   | This template documents data transformations and the predicted and actual AI model performance for specific tasks. It combines elements from a model card, data cover sheet and documents curatorial provenance. Vendors are required to fill it out as part of the Digital Innovation IDIQ.       | 2021-12-01 | Attachment J2 on the Library of Congress [Digital Innovation IDIQ solicitation](https://github.com/LibraryOfCongress/labs-ai-framework/blob/main/Experiment/Data-Processing-Plan-template-2021-12-01-draft.docx) | 
+| Digital Innovation Indefinite Delivery Indefinite Quantity (IDIQ)  | The Library of Congress [Digital Innovation IDIQ](https://sam.gov/opp/1e6e3f521dd443809e6d0107b5101580/view#general) contract is a multi-year contracting mechanism that we can use to fulfill individual AI experiment at the Library of Congress, and includes requirements that may be valuable to the broader community.       | 2022-07-28 | Library of Congress [Digital Innovation IDIQ solicitation](https://github.com/LibraryOfCongress/labs-ai-framework/blob/main/Experiment/DigitalInnovationIDIQsigned.pdf) | 
 
 
 ## Implement 
