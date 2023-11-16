@@ -23,9 +23,9 @@ Collaboratively articulate principles; assess risks and benefits, map needs, pri
 Tools for use in this phase: 
 | Title      | Description | Last Revised | Download | 
 | ----------- | ----------- |  ----------- |  ----------- |  
-| Use Case Risk Worksheet     | This questionnaire is meant to assist staff in assessing the risk profile of an AI use case. The risk level will inform planning for the level of the risk mitigation efforts, estimated timeline for safety, quality and performance verification, and resources required.       | 2023-10-30 | Link to [worksheet](https://github.com/LibraryOfCongress/labs-ai-framework/blob/main/Understand/Use_Case_Assessment_Worksheet_2023-11-13-draft.docx). | 
+| Use Case Risk Worksheet     | This questionnaire is meant to assist staff in assessing the risk profile of an AI use case. The risk level will inform planning for the level of the risk mitigation efforts, estimated timeline for safety, quality and performance verification, and resources required.       | 2023-11-14 | Link to [worksheet](https://github.com/LibraryOfCongress/labs-ai-framework/blob/main/Understand/Use_Case_Assessment_Worksheet_2023-11-13-draft.docx). | 
 | Phase II Risk Analysis  | Fill out this worksheet to articulate success criteria, measures, risks, and benefits for an AI Use Case. | 2023-10-30 | Link to [worksheet](https://github.com/LibraryOfCongress/labs-ai-framework/blob/main/Understand/PhaseII_Risk_Assessement_-_2023-10-30-draft.docx) | 
-| Data Readiness Assessment     | Questionnaire to assess readiness and availability of data for the proposed use case.       | 2023-10-30 | Link to [questionnaire](https://github.com/LibraryOfCongress/labs-ai-framework/blob/main/Understand/Data_Assessment_Worksheet_2023-11-14.docx). |
+| Data Readiness Assessment     | Questionnaire to assess readiness and availability of data for the proposed use case.       | 2023-11-14 | Link to [questionnaire](https://github.com/LibraryOfCongress/labs-ai-framework/blob/main/Understand/Data_Assessment_Worksheet_2023-11-14.docx). |
 
 
 ## Experiment 
