@@ -11,11 +11,77 @@ At a high level, the framework includes three planning phases:  1) Understand 2)
 
 In planning for and conducting AI and ML experiments at the Library of Congress, we've simplified ML processes into three main elements:  Data, Models, and People. The details of all three elements and how they are put together helps us understand whether an application of this technology is useful, ethical and effective.  
 
-![Slide titled elements of machine learning containing three icons. A round cylinder icon under Data, under which the following words appear: library content, data readiness, training data, tuning data, validation data, target data, and output data. Top righ a square with four quadrants under which the following words appear: end to end workflow or pipeline, architectures, type of training, libraries utilized, frameworks or platforms. Bottom center a group of four people with arms raised next to which the following words appear: develop use cases, represented in the data, design and sell AI systems, impacted by AI systems, evaluate and implement AI systems.](/images/AIframework-1.jpg)
+<table>
+    <tr>
+        <th colspan="3">Elements of Machine Learning / AI</th>
+    </tr>
+    <tr>
+        <td valign="top" style="width: 33.333%">
+            <h3>Data</h3>
+            <p><img src="images/elements-data-icon.png" alt="An icon comprised of a black cylinder with three segments" style="max-width: 100px;" /></p>
+            <ul>
+                <li>Library content</li>
+                <li>Data readiness</li>
+                <li>Training data</li>
+                <li>Tuning data</li>
+                <li>Validation data</li>
+                <li>Target data</li>
+                <li>Output data</li>
+            </ul>
+        </td>
+        <td valign="top" style="width: 33.333%">
+            <h3>Models</h3>
+            <p><img src="images/elements-models-icon.png" alt="An icon comprised of a matrix of four cells, each containing a math symbol" style="max-width: 100px;" /></p>
+            <ul>
+                <li>End-to-end workflow or pipeline</li>
+                <li>Architectures</li>
+                <li>Type of training</li>
+                <li>Libraries utilized</li>
+                <li>Frameworks or platforms</li>
+            </ul>
+        </td>
+        <td valign="top" style="width: 33.333%">
+            <h3>People</h3>
+            <p><img src="images/elements-people-icon.png" alt="An icon comprised of a four human figures with their arms raised" style="max-width: 100px;" /></p>
+            <ul>
+                <li>Develop use cases</li>
+                <li>Represented in the data</li>
+                <li>Design and sell AI systems</li>
+                <li>Impacted by AI systems</li>
+                <li>Evaluate and implement</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+_[Download this table as an image](/images/AIframework-1.jpg)_
 
 Considering the data, models and people involved in an AI system is baked into our AI Planning Framework. The Understand, Experiment and Implement steps include collaborative activities and result in documentation that inform the development of practices and policies for responsible AI. We have yet to move all the way through to the implement stage, but this planning process will build the foundation for a solid and responsible AI strategy based on evidence and Library strengths. 
 
-![Slide titled planning phases containing three blue rectangles side by side. The first reads understand and depicts a lighbulb icon. The middle rectangle reads Experiment and depicts a cycle icon. The third reads Implement and depicts a pyramid underneath which are icons of a building with pillars, magnifying glass, people, and a clipboard. At the bottom is a long rectangle reading Governance and Policy.](/images/AIframework-2.jpg)
+<table>
+    <tr>
+        <th colspan="3">LC Labs AI Planning Phases</th>
+    </tr>
+    <tr>
+        <td valign="top" style="width: 33.333%">
+            <h3>Understand</h3>
+            <p><img src="images/phases-understand-icon.png" alt="An icon comprised of a lightbulb containing a network of people, institutions, and technology" style="max-width: 100px;" /></p>
+        </td>
+        <td valign="top" style="width: 33.333%">
+            <h3>Experiment</h3>
+            <p><img src="images/phases-experiment-icon.png" alt="An icon comprised of three arrows and three dots organized in a circle, representing a cycle" style="max-width: 100px;" /></p>
+        </td>
+        <td valign="top" style="width: 33.333%">
+            <h3>Implement</h3>
+            <p><img src="images/phases-implement-icon.png" alt="An icon comprised of a pyramid above an institution, a magnifying glass above a graph, people, and a certificate" style="max-width: 100px;" /></p>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3" style="text-align: center">→ Governance and Policy →</td>
+    </tr>
+</table>
+
+_[Download this table as an image](images/AIframework-2.jpg)_
 
 ## Understand 
 Collaboratively articulate principles; assess risks and benefits, map needs, priorities and expertise; learn about data readiness. 
@@ -54,4 +120,44 @@ This phase will include tools to assist with:
 - Monitoring and Measuring
 - Shared Quality Standards
 
-![Slide titled elements of machine learning containing three icons. A round cylinder icon under Data, under which the following words appear: library content, data readiness, training data, tuning data, validation data, target data, and output data. Top righ a square with four quadrants under which the following words appear: end to end workflow or pipeline, architectures, type of training, libraries utilized, frameworks or platforms. Bottom center a group of four people with arms raised next to which the following words appear: develop use cases, represented in the data, design and sell AI systems, impacted by AI systems, evaluate and implement AI systems.](/images/AIframework-3.jpg)
+<table>
+    <tr>
+        <th colspan="3">Framework Activities</th>
+    </tr>
+    <tr>
+        <td valign="top" style="width: 33.333%">
+            <h3>Understand</h3>
+            <p><img src="images/phases-understand-icon.png" alt="An icon comprised of a lightbulb containing a network of people, institutions, and technology" style="max-width: 100px;" /></p>
+            <p>Use tools to collaborate and assess:</p>
+            <ul>
+                <li>Risks and benefits</li>
+                <li>Principles and values</li>
+                <li>Data readiness</li>
+                <li>Local and domain expertise</li>
+            </ul>
+        </td>
+        <td valign="top" style="width: 33.333%">
+            <h3>Experiment</h3>
+            <p><img src="images/phases-experiment-icon.png" alt="An icon comprised of three arrows and three dots organized in a circle, representing a cycle" style="max-width: 100px;" /></p>
+            <p>Create practices and documentation to:</p>
+            <ul>
+                <li>Test data and models with use case</li>
+                <li>Review output with staff and users</li>
+                <li>Build baselines</li>
+            </ul>
+        </td>
+        <td valign="top" style="width: 33.333%">
+            <h3>Implement</h3>
+            <p><img src="images/phases-implement-icon.png" alt="An icon comprised of a pyramid above an institution, a magnifying glass above a graph, people, and a certificate" style="max-width: 100px;" /></p>
+            <p>Create policies and standards, including:</p>
+            <ul>
+                <li>Strategy and roadmap</li>
+                <li>Skills and capacities</li>
+                <li>Monitoring and measuring</li>
+                <li>Shared quality standards</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+_[Download this table as an image](images/AIframework-3.jpg)_
