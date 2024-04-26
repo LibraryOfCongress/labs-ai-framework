@@ -1,0 +1,9 @@
+- id: github
+  url: "https://github.com/LibraryOfCongress/labs-ai-framework/"
+  text: Github
+  is_external: true
+
+- id: labs
+  url: "https://labs.loc.gov/"
+  text: LC Labs
+  is_external: true

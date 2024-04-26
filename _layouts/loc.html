@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ site.title }} - {{ page.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+</head>
+
+<body class="page-{{ page.id }}">
+
+    <!-- LoC banner starts here -->
+    <header class="loc-header">
+        <div class="loc-logo">
+            <a href="https://www.loc.gov/"><img src="{{ site.baseurl }}/img/LOC_Logo_horiz_inv.png" alt="The Library of Congress logo" title="Go to the Library of Congress homepage" /></a>
+        </div>
+        <div class="project-description">
+            {{ site.description_with_markdown | markdownify }}
+            <p>
+                <a href="{{ site.code_url }}" class="button small">View on Github</a>
+            </p>
+        </div>
+    </header>
+    <!-- /LoC banner end here -->
+
+    <main class="main-content">
+        <nav class="main-menu">
+            <ul class="main-menu-list">
+            {% for item in site.data.main_menu %}
+                <li>
+                    {% if item.is_external %}
+                        <a href="{{ item.url }}" target="_blank" class="external-link" rel="external">
+                            {{ item.text }}
+                        </a>
+                    {% else %}
+                        <a href="{{ site.baseurl }}{{ item.url }}" {% if page.id == item.id %}class="active"{% endif %}>
+                            {{ item.text }}
+                        </a>
+                    {% endif %}
+                </li>
+            {% endfor %}
+            </ul>
+        </nav>
+        {{ content }}
+    </main>
+
+    <!-- LoC footer starts here -->
+    <footer class="loc-footer">
+        {{ site.description_with_markdown | markdownify }}
+        <ul class="loc-footer-nav-list">
+            <li><a href="{{ site.code_url }}">Source code</a></li>  
+            <li><a href="https://www.loc.gov/">The Library of Congress</a></li>
+            <li><a href="https://loc.gov/legal">Privacy Policy</a>.</li>
+            <li><a href="https://www.loc.gov/accessibility/">Accessibilty</a></li>
+            <li><a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">Github Privacy Statement</a>.</li>
+            <li><a href="https://creativecommons.org/publicdomain/zero/1.0/">License</a></li>
+            <li><a href="mailto:{{ site.email }}">Contact</a></li>
+        </ul>
+    </footer>
+    <!-- /LoC footer end here -->
+
+</body>
+
+</html>
